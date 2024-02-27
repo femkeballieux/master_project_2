@@ -159,6 +159,6 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-/net/vdesk/data2/bach1/ballieux/master_project_2/redundant
-/data/Random
-/net/vdesk/data2/bach1/ballieux/master_project_2/carta-4.1-x86_64.AppImage
+redundant/
+/data/Random/
+carta-4.1-x86_64.AppImage
