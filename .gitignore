@@ -160,5 +160,6 @@ cython_debug/
 #.idea/
 
 redundant/
-/data/Random/
+/data/
 carta-4.1-x86_64.AppImage
+/OMA/
