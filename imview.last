@@ -1,0 +1,6 @@
+raster  = 'data/high_mass_data/G361.77/G351.77_B6_spw5_12M_spw5.JvM.image.pbcor.statcont.contsub_ALMAIMF_CO21.fits'
+contour = {}
+zoom    = 1
+axes    = {}
+out     = ''
+#imview( raster='data/high_mass_data/G361.77/G351.77_B6_spw5_12M_spw5.JvM.image.pbcor.statcont.contsub_ALMAIMF_CO21.fits',contour={},zoom=1,axes={},out='' )
